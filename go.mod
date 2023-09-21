@@ -1,4 +1,4 @@
-module github.com/saltbo/gopkg
+module github.com/okjocn/gopkg
 
 go 1.19
 
