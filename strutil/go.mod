@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/go-playground/assert/v2 v2.2.0
-	github.com/okjocn/gopkg/sliceutil v0.0.0-20221024031008-7af9787873bd
+	github.com/okjocn/gopkg/sliceutil v1.1.0
 	github.com/stretchr/testify v1.8.1
 )
 
