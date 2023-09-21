@@ -1,4 +1,4 @@
-module github.com/saltbo/gopkg/httputil
+module github.com/okjocn/gopkg/httputil
 
 go 1.19
 

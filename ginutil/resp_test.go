@@ -9,7 +9,7 @@ import (
 	"github.com/gin-gonic/gin"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/saltbo/gopkg/httputil"
+	"github.com/okjocn/gopkg/httputil"
 )
 
 type ResponseFunc func(c *gin.Context, err error)

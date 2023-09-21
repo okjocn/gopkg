@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/saltbo/gopkg/spinlock"
+	"github.com/okjocn/gopkg/spinlock"
 )
 
 var (

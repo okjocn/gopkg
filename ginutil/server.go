@@ -6,7 +6,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"github.com/saltbo/gopkg/httputil"
+	"github.com/okjocn/gopkg/httputil"
 )
 
 type Server struct {

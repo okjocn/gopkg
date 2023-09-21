@@ -8,7 +8,7 @@ import (
 	ginSwagger "github.com/swaggo/gin-swagger"
 	"github.com/swaggo/gin-swagger/swaggerFiles"
 
-	"github.com/saltbo/gopkg/httputil"
+	"github.com/okjocn/gopkg/httputil"
 )
 
 type Resource interface {

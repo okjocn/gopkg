@@ -3,7 +3,7 @@ package strutil
 import (
 	"strings"
 
-	"github.com/saltbo/gopkg/sliceutil"
+	"github.com/okjocn/gopkg/sliceutil"
 )
 
 var (

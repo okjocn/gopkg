@@ -1,4 +1,4 @@
-module github.com/saltbo/gopkg/sliceutil
+module github.com/okjocn/gopkg/sliceutil
 
 go 1.19
 
