@@ -1,4 +1,4 @@
-package github.com/okjocn/gopkg/strutil
+package strutil
 
 import (
   "math/rand"
