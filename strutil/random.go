@@ -19,7 +19,7 @@ func init(){
 func RandomText(n int) string{
   b := make([]byte,n)
   for i := range b{
-    b[i] = letterBytes[rand.Int()%letter]
+    b[i] = letterBytes[rand.Int()%letterLength]
   }
   return *(*string)(unsafe.Pointer(&b))
 }
